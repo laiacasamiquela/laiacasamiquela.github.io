@@ -56,7 +56,7 @@ a, a:hover, a:active {
 	margin: 10px 1%;
 	min-width: 320px;
 	max-width: 480px;
-	max-height: 360px;
+	max-height: 400px;
 	width: 48%;
 	background: #3085a3;
 	text-align: center;
@@ -364,7 +364,7 @@ p {
   text-align: center;
 }
 #head {
-  background: #f4f4f4 url(../img/cel_mont.jpg) top center;
+  background: #f4f4f4 url(../img/cel_montrebei2.jpg) top center;
   background-size: cover;
   color: #7C7C7C;
   padding: 220px 0;
